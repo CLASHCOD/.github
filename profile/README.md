@@ -2,7 +2,7 @@
 
 
 
-## Get Involved
+# Get Involved
 
 Right now, open communities are building amazing software together, and there are excellent "good first issue" opportunities.
 

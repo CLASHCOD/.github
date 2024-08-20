@@ -1,7 +1,3 @@
-![Open Source at Microsoft](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif) 
-
-
-
 Right now, open communities are building amazing software together, and there are excellent "good first issue".
 
 * [Explore featured projects](https://opensource.microsoft.com/projects/)

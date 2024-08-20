@@ -2,10 +2,11 @@
 
 
 
-Right now, open communities are building amazing software together, and there are excellent "good first issue" opportunities.
+Right now, open communities are building amazing software together, and there are excellent "good first issue" opportunities namaste dosto hi aur chai.
 
 * [Explore featured projects](https://opensource.microsoft.com/projects/)
 * [Explore open source jobs at Microsoft](https://careers.microsoft.com/us/en/search-results?keywords=open%20source)
+* [Explore featured projects](https://opensource.microsoft.com/projects/)
 
 Visit [opensource.microsoft.com](https://opensource.microsoft.com) to learn more!
 

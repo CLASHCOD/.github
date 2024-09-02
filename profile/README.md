@@ -5,7 +5,7 @@ Right now, open communities are building amazing software together, and there ar
 * [Explore featured projects](https:// )
 * [Apply for open source projects](https:// )
 
-Visit [opensource.microsoft.com](https:// ) to learn more!
+Visit [opensource.codesociety.com](https:// ) to learn more!
 
 ----
 

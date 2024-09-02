@@ -2,11 +2,11 @@
 
 Right now, open communities are building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
 
-* [Explore featured projects](https://opensource.microsoft.com/projects/)
-* [Apply for open source projects](https://opensource.microsoft.com/azure-credits)
+* [Explore featured projects](https:// )
+* [Apply for open source projects](https:// )
 
-Visit [opensource.microsoft.com](https://opensource.microsoft.com) to learn more!
+Visit [opensource.microsoft.com](https:// ) to learn more!
 
 ----
 
-Microsoft projects adopt the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/)
+Society projects adopt the [Student Society Open Source Code of Conduct](https:// ). For more information see the [Code of Conduct FAQ](https:// )

@@ -1,5 +1,5 @@
-![Open Source at Microsoft](https://media.licdn.com/dms/image/D5612AQE2-lRzXIlndg/article-cover_image-shrink_720_1280/0/1700319017256?e=2147483647&v=beta&t=tnj7zK9m00OFbFpulBQHSsnPYKUFsUJodS8VTbkng_U)  
-##
+![Open Source at Microsoft](https://www.gbb.co.in/wp-content/uploads/2019/06/open-source-service-company.jpg)  
+## 
 
 Right now, open communities are building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
 
